@@ -1,10 +1,10 @@
 # Takeru Endo
 
-### 🤖 About
+### About
 
 AI Engineer / Kaggle Competitions Master
 
-### 🔗 Links
+### Links
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/taken88825719)
 <br/>
@@ -14,6 +14,6 @@ AI Engineer / Kaggle Competitions Master
 <br/>
 [![1x](https://img.shields.io/badge/1x-000000?style=for-the-badge)](https://1x.com/takeru26)
 
-### 🚀 Personal Projects
+### Personal Projects
 
 [![Animews](https://img.shields.io/badge/Animews-アニメニュースサイト-FF4785?style=for-the-badge&logo=googlenews&logoColor=white)](https://daily-news-qu9.pages.dev/)
